@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Github Disable Publish
-// @namespace    https://chevdor.com/
-// @version      0.1
+// @namespace    https://github.com/chevdor/browser_scripts
+// @version      0.2
 // @description  Disable the publish button until you **really** need it
 // @author       Chevdor
 // @match        https://github.com/*
